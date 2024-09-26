@@ -1,2 +1,2 @@
 # Git Basics
-Dies ist ein P
+Dies ist ein Pr
