@@ -1,2 +1,2 @@
 # Git Basics
-Dies ist ein Pro
+Dies ist ein Proj
