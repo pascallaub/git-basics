@@ -1,2 +1,2 @@
 # Git Basics
-Dies ist ein Proje
+Dies ist ein Projekt, um die Grundlagen von Git zu lernen.
