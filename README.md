@@ -1,2 +1,2 @@
 # Git Basics
-Dies i
+Dies is
