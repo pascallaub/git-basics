@@ -1,2 +1,2 @@
 # Git Basics
-Dies ist eine Test-Readme-Datei.
+Dies ist ein Projekt, um die Grundlagen von Git zu lernen.
